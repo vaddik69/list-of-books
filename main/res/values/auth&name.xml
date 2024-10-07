@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Auth">
+        <item>"Обломов"</item>
+        <item>"Герой нашего времени"</item>
+        <item>"Война и мир"</item>
+        <item>"Хмурые люди"</item>
+        <item>"Преступление и наказание"</item>
+        <item>"Мастер и Маргарита"</item>
+        <item>"Анна Каренина"</item>
+        <item>"Евгений Онегин"</item>
+        <item>"Братья Карамазовы"</item>
+        <item>"Доктор Живаго"</item>
+        <item>"Мёртвые души"</item>
+        <item>"Тихий Дон"</item>
+        <item>"Отцы и дети"</item>
+        <item>"Записки из подполья" </item>
+        <item>"Белая гвардия"</item>
+        <item>"Айвенго"</item>
+        <item>"12 стульев"</item>
+        <item>"Двенадцать"</item>
+        <item>"Собачье сердце"</item>
+        <item>"Алхимик"</item>
+        <item>"Майор проклятый"</item>
+        <item>"Поднятая целина"</item>
+        <item>"Среди живых"</item>
+        <item>"Сказка о рыбаке и рыбке"</item>
+        <item>"Маяковский"</item>
+
+    </string-array>
+
+    <string-array name="Name">
+        <item>И. А. Гончаров</item>
+        <item>М. Ю. Лермонтов</item>
+        <item>Л. Н. Толстой</item>
+        <item>А. П. Чехов</item>
+        <item>Ф. М. Достоевский</item>
+        <item>М. А. Булгаков</item>
+        <item>Л. Н. Толстой</item>
+        <item>А. С. Пушкин</item>
+        <item>Ф. М. Достоевский</item>
+        <item>Б. Л. Пастернак</item>
+        <item>Н. С. Гоголь</item>
+        <item>М. А. Шолохов</item>
+        <item>И. С. Тургенев</item>
+        <item>Ф. М. Достоевский</item>
+        <item>М. А. Булгаков</item>
+        <item>А. С. Пушкин</item>
+        <item>И. А. Ильф</item>
+        <item>М. А. Шолохов</item>
+        <item>А. С. Блок</item>
+        <item>М. А. Булгаков</item>
+        <item>П. Р. Коэльо</item>
+        <item>Р. В. Сенчин</item>
+        <item>М. А. Шолохов</item>
+        <item>А. С. Пушкин</item>
+        <item>В. В. Набоков</item>
+    </string-array>
+</resources>
